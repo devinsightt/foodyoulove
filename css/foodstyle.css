@@ -1,0 +1,169 @@
+*
+{
+	margin: 0; padding: 0;
+	color: white;
+}
+
+.imgrespo
+{
+	max-width: 100%;
+}
+
+.fullmain
+{
+	width: 100%;
+	height: 100vh;
+    /*background-color: #37f61a ; */
+    background-image: url('../images/newlogo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%   100% ; 
+     position: relative;
+}
+
+
+.fullmain .logo
+{
+	position: absolute;
+	left: 0;
+	padding: 50px 0 0 50px;
+    
+}
+
+
+
+
+.fullmain .ctpart
+{
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translate( -50% , -50%);
+} 
+
+.fullmain .ctpart h1
+{
+	font-size: 3rem;
+	text-align: center;
+}
+
+.fullmain .ctpart p
+{
+	font-size: x-large;
+
+
+
+}
+.fullmain .ctpart form label
+{
+	font-size: xx-large;
+	font-weight: bolder;
+
+}
+
+.fullmain .ctpart form input
+{
+	display: block;
+	width:  70%;
+	/*align-content: center;*/
+	margin-left: auto;
+	margin-right: auto;
+	padding: 12px;
+	border-radius: 2rem;
+	border-style: none;
+
+
+}
+
+
+.fullmain .ctpart form button
+{
+	display: block;
+	width:  30%;
+	/*align-content: center;*/
+	margin-left: auto;
+	margin-right: auto;
+	padding: 7px;
+	border-radius: 1rem;
+	border-style: none;
+
+}
+
+.menusheet
+{
+	padding: 100px 0 0 10px;
+	width: 100%;
+	height: 100vh;
+    /*background-color: #37f61a ; */
+    background-image: url('../images/newlogo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%   100% ; 
+
+
+}
+
+.menusheet .product
+{
+
+    float: left;
+    width: 31%;
+    margin: 0 10px 0 10px;
+
+}
+
+.menusheet .product h1
+{
+	padding-left: 70px;
+}
+
+.menusheet .product p
+{
+    float: left;
+	width: 70%;
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  
+
+}
+
+.imgrespo1
+{
+	width:72%;
+	height: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
